@@ -12,7 +12,6 @@ Run the application and choose:
 Admin mode to manage quiz questions.
 User mode to take a quiz.
 Follow the on-screen instructions to perform your desired actions.
-
 Project Structure
 ConductQuiz.java: Handles quiz execution and scoring logic.
 DataBaseManager.java: Performs database operations like adding, updating, and deleting quiz questions.
